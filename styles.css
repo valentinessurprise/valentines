@@ -1,10 +1,10 @@
-h1 { color: #ffffff; font-family: 'Lato', sans-serif; font-size: 54px; font-weight: 300; line-height: 58px; margin: 0 0 58px; }
+h1 { color: #eb77a4; font-family: 'Lato', sans-serif; font-size: 54px; font-weight: 300; line-height: 58px; margin: 0 0 58px; background: #222; padding: 10px; text-align: center;}
 
 
-p { color: #adb7bd; font-family: 'Lucida Sans', Arial, sans-serif; font-size: 16px; line-height: 26px; text-indent: 30px; margin: 0; }
+p { color: #ffc0cb; font-family: 'Lucida Sans', Arial, sans-serif; font-size: 16px; line-height: 26px; text-indent: 30px; margin-bottom: 10; }
 
 
-a { color: #fe921f; text-decoration: underline; }
+a { color: #eb77a4; text-decoration: underline; }
 
 
 a:hover { color: #ffffff }
@@ -13,7 +13,8 @@ a:hover { color: #ffffff }
 .date { background: #fe921f; color: #ffffff; display: inline-block; font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 0 30px; padding: 10px 15px 8px; text-transform: uppercase; }
 
 body {
-  background-color: #000033;
+  background-color: #333;
+  font-size: large;
 }
 
 li {
